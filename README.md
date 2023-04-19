@@ -7,4 +7,7 @@ A 500x500 grid has a random cell with a green "snack," which, when hit by the sn
 TODO:
 - Show score and update score for each snack capture
 - Add a challeging snack which stays for a short time, and when captured, provides an additional life
-![Snake Game](python_projects/snake_game/snake.png)
+
+
+
+<img src='python_projects/snake_game/snake.png' width=200 class="center" />
